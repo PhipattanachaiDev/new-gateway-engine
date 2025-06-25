@@ -1,12 +1,2 @@
 {"level":"info","serviceName":"","time":"2025-05-27T10:11:22+07:00","message":"Logger initialized Started."}
-{"level":"info","serviceName":"","time":"2025-05-27T10:11:22+07:00","message":"Server started on IP: 10.17.29.97, Port: 9000"}
-{"level":"info","serviceName":"","time":"2025-05-27T10:11:50+07:00","message":"Client connected: 10.76.188.3:53311"}
-{"level":"info","serviceName":"","time":"2025-05-27T10:25:07+07:00","message":"Logger initialized Started."}
-{"level":"info","serviceName":"","time":"2025-05-27T10:25:07+07:00","message":"Server started on IP: 10.17.29.97, Port: 9000"}
-{"level":"info","serviceName":"","time":"2025-05-27T10:25:09+07:00","message":"Client connected: 10.76.188.3:53316"}
-{"level":"info","serviceName":"","time":"2025-05-27T14:54:36+07:00","message":"Logger initialized Started."}
-{"level":"info","serviceName":"","time":"2025-05-27T14:54:36+07:00","message":"Server started on IP: 10.17.29.97, Port: 9000"}
-{"level":"info","serviceName":"","time":"2025-05-27T14:54:38+07:00","message":"Client connected: 10.76.188.3:64567"}
-{"level":"info","serviceName":"","time":"2025-05-27T15:00:53+07:00","message":"Logger initialized Started."}
-{"level":"info","serviceName":"","time":"2025-05-27T15:00:53+07:00","message":"Server started on IP: 10.17.29.97, Port: 9000"}
-{"level":"info","serviceName":"","time":"2025-05-27T15:00:59+07:00","message":"Client connected: 10.76.188.3:64568"}
+{"level":"info","serviceName":"","time":"2025-05-27T10:11:22+07:00","message":"Server started on IP: 0.0.0.0, Port: 8080"}
